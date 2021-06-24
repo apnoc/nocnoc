@@ -1,0 +1,30 @@
+{
+  "name": "nocnoc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3030",
+    "build": "next build",
+    "start": "next start -p 3030"
+  },
+  "dependencies": {
+    "@apollo/client": "^3.3.6",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-regular-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.13",
+    "bootstrap": "4.5.3",
+    "export": "^0.1.337",
+    "export-files": "^2.1.1",
+    "font-awesome": "^4.7.0",
+    "graphql": "^15.4.0",
+    "isomorphic-unfetch": "^3.1.0",
+    "next": "10.0.3",
+    "node-fetch": "^2.6.1",
+    "react": "17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "17.0.1",
+    "reactstrap": "^8.7.1"
+  }
+}
